@@ -1,2 +1,2 @@
-# spend_dataa-project
-BBI data set from interviewer task
+# Diabetic data 
+diabetic data which is totally basics for beginers to learn
